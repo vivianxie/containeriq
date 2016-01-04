@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-## Wharf On ContainerIQ
-=======
-# containeriq
-containeriq
->>>>>>> upstream/develop
+Wharf On ContainerIQ
